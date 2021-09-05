@@ -11875,7 +11875,21 @@
         "website": "https://solana.lido.fi/",
         "twitter": "https://twitter.com/LidoFinance/"
       }
-    }
+    },
+
+     {
+      "chainId": 101,
+      "address": "CbHeChaueUA8hbdKP5o2fSH9BNCNoRbhhv6ZScYqSGf6",
+      "symbol": "ROSE",
+      "name": "Rose Token",
+      "decimals": 3,
+      "logoURI": "https://user-images.githubusercontent.com/76611596/132122885-84936e93-9728-4904-8d26-5e8bd6ab8f1e.png",
+      "tags": [
+        "social-token"
+      ],
+      "extensions": {
+        "website": "https://ringandroses.app/"
+      }
   ],
   "version": {
     "major": 0,
